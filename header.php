@@ -21,7 +21,7 @@
     <?php wp_head(); ?>
 	<!-- Document Title
 	              ============================================= -->
-	<title>Home - Shop Layout 2 | Canvas</title>
+
 
 </head>
 
@@ -30,4 +30,4 @@
 
 <!-- Document Wrapper
 ============================================= -->
-<div id="wrapper" class="clearfix">
+ <div id="wrapper" class="clearfix">

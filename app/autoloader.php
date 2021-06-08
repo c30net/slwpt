@@ -11,7 +11,6 @@ class Autoloader {
 		$file = $this->convert_class_to_file($class_name);
 		if(is_file($file) && file_exists($file) && is_readable($file))
 		include $file;
-
 	}
 
 	public function convert_class_to_file( $class_name ) {

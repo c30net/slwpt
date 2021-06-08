@@ -66,7 +66,7 @@
 			<div class="col_one_third bottommargin-lg">
 				<div class="feature-box center media-box fbox-bg">
 					<div class="fbox-media">
-						<img src="images/shop/banners/10.jpg" alt="Image">
+						<img src="<?php echo Asset::image('shop/banners/10.jpg'); ?>" alt="Image">
 					</div>
 					<div class="fbox-desc">
 						<h3>Men's Footwear<span class="subtitle">Flat 50% Off*</span></h3>
@@ -78,7 +78,7 @@
 			<div class="col_one_third bottommargin-lg">
 				<div class="feature-box center media-box fbox-bg">
 					<div class="fbox-media">
-						<img src="images/shop/banners/11.jpg" alt="Image">
+						<img src="<?php echo Asset::image('shop/banners/11.jpg'); ?>" alt="Image">
 					</div>
 					<div class="fbox-desc">
 						<h3>Latest Product Arrivals<span class="subtitle">New Dress Designs Available</span></h3>
@@ -90,7 +90,7 @@
 			<div class="col_one_third bottommargin-lg col_last">
 				<div class="feature-box center media-box fbox-bg">
 					<div class="fbox-media">
-						<img src="images/shop/banners/12.jpg" alt="Image">
+						<img src="<?php echo Asset::image('shop/banners/12.jpg'); ?>" alt="Image">
 					</div>
 					<div class="fbox-desc">
 						<h3>The Style Blog<span class="subtitle">Fashion Tips from Experts</span></h3>
@@ -111,7 +111,7 @@
 
 					<div class="spost clearfix">
 						<div class="entry-image">
-							<a href="#"><img src="images/shop/small/1.jpg" alt="Image"></a>
+							<a href="#"><img src="<?php echo Asset::image('shop/small/1.jpg'); ?>" alt="Image"></a>
 						</div>
 						<div class="entry-c">
 							<div class="entry-title">
@@ -126,7 +126,7 @@
 
 					<div class="spost clearfix">
 						<div class="entry-image">
-							<a href="#"><img src="images/shop/small/6.jpg" alt="Image"></a>
+							<a href="#"><img src="<?php echo Asset::image('shop/small/6.jpg'); ?>" alt="Image"></a>
 						</div>
 						<div class="entry-c">
 							<div class="entry-title">
@@ -141,7 +141,7 @@
 
 					<div class="spost clearfix">
 						<div class="entry-image">
-							<a href="#"><img src="images/shop/small/7.jpg" alt="Image"></a>
+							<a href="#"><img src="<?php echo Asset::image('shop/small/7.jpg'); ?>" alt="Image"></a>
 						</div>
 						<div class="entry-c">
 							<div class="entry-title">
@@ -156,7 +156,7 @@
 
 					<div class="spost clearfix">
 						<div class="entry-image">
-							<a href="#"><img src="images/shop/small/9.jpg" alt="Image"></a>
+							<a href="#"><img src="<?php echo Asset::image('shop/small/9.jpg'); ?>" alt="Image"></a>
 						</div>
 						<div class="entry-c">
 							<div class="entry-title">
@@ -183,7 +183,7 @@
 
 					<div class="spost clearfix">
 						<div class="entry-image">
-							<a href="#"><img src="images/shop/small/3.jpg" alt="Image"></a>
+							<a href="#"><img src="<?php echo Asset::image('shop/small/3.jpg'); ?>" alt="Image"></a>
 						</div>
 						<div class="entry-c">
 							<div class="entry-title">
@@ -198,7 +198,7 @@
 
 					<div class="spost clearfix">
 						<div class="entry-image">
-							<a href="#"><img src="images/shop/small/10.jpg" alt="Image"></a>
+							<a href="#"><img src="<?php echo Asset::image('shop/small/10.jpg'); ?>" alt="Image"></a>
 						</div>
 						<div class="entry-c">
 							<div class="entry-title">
@@ -213,7 +213,7 @@
 
 					<div class="spost clearfix">
 						<div class="entry-image">
-							<a href="#"><img src="images/shop/small/11.jpg" alt="Image"></a>
+							<a href="#"><img src="<?php echo Asset::image('shop/small/11.jpg'); ?>" alt="Image"></a>
 						</div>
 						<div class="entry-c">
 							<div class="entry-title">
@@ -228,7 +228,7 @@
 
 					<div class="spost clearfix">
 						<div class="entry-image">
-							<a href="#"><img src="images/shop/small/4.jpg" alt="Image"></a>
+							<a href="#"><img src="<?php echo Asset::image('shop/small/4.jpg'); ?>" alt="Image"></a>
 						</div>
 						<div class="entry-c">
 							<div class="entry-title">
@@ -255,7 +255,7 @@
 
 					<div class="spost clearfix">
 						<div class="entry-image">
-							<a href="#"><img src="images/shop/small/8.jpg" alt="Image"></a>
+							<a href="#"><img src="<?php echo Asset::image('shop/small/8.jpg'); ?>" alt="Image"></a>
 						</div>
 						<div class="entry-c">
 							<div class="entry-title">
@@ -270,7 +270,7 @@
 
 					<div class="spost clearfix">
 						<div class="entry-image">
-							<a href="#"><img src="images/shop/small/5.jpg" alt="Image"></a>
+							<a href="#"><img src="<?php echo Asset::image('shop/small/5.jpg'); ?>" alt="Image"></a>
 						</div>
 						<div class="entry-c">
 							<div class="entry-title">
@@ -285,7 +285,7 @@
 
 					<div class="spost clearfix">
 						<div class="entry-image">
-							<a href="#"><img src="images/shop/small/12.jpg" alt="Image"></a>
+							<a href="#"><img src="<?php echo Asset::image('shop/small/12.jpg'); ?>" alt="Image"></a>
 						</div>
 						<div class="entry-c">
 							<div class="entry-title">
@@ -300,7 +300,7 @@
 
 					<div class="spost clearfix">
 						<div class="entry-image">
-							<a href="#"><img src="images/shop/small/2.jpg" alt="Image"></a>
+							<a href="#"><img src="<?php echo Asset::image('shop/small/2.jpg'); ?>" alt="Image"></a>
 						</div>
 						<div class="entry-c">
 							<div class="entry-title">
@@ -321,22 +321,22 @@
 
 			<div id="oc-clients-full" class="owl-carousel image-carousel carousel-widget" data-margin="30" data-nav="false" data-autoplay="5000" data-pagi="false" data-items-xs="2" data-items-sm="3" data-items-md="4" data-items-lg="5" data-items-xl="7">
 
-				<div class="oc-item"><a href="#"><img src="images/clients/logo/1.png" alt="Clients"></a></div>
-				<div class="oc-item"><a href="#"><img src="images/clients/logo/2.png" alt="Clients"></a></div>
-				<div class="oc-item"><a href="#"><img src="images/clients/logo/3.png" alt="Clients"></a></div>
-				<div class="oc-item"><a href="#"><img src="images/clients/logo/4.png" alt="Clients"></a></div>
-				<div class="oc-item"><a href="#"><img src="images/clients/logo/5.png" alt="Clients"></a></div>
-				<div class="oc-item"><a href="#"><img src="images/clients/logo/6.png" alt="Clients"></a></div>
-				<div class="oc-item"><a href="#"><img src="images/clients/logo/7.png" alt="Clients"></a></div>
-				<div class="oc-item"><a href="#"><img src="images/clients/logo/8.png" alt="Clients"></a></div>
-				<div class="oc-item"><a href="#"><img src="images/clients/logo/9.png" alt="Clients"></a></div>
-				<div class="oc-item"><a href="#"><img src="images/clients/logo/10.png" alt="Clients"></a></div>
-				<div class="oc-item"><a href="#"><img src="images/clients/logo/11.png" alt="Clients"></a></div>
-				<div class="oc-item"><a href="#"><img src="images/clients/logo/12.png" alt="Clients"></a></div>
-				<div class="oc-item"><a href="#"><img src="images/clients/logo/13.png" alt="Clients"></a></div>
-				<div class="oc-item"><a href="#"><img src="images/clients/logo/14.png" alt="Clients"></a></div>
-				<div class="oc-item"><a href="#"><img src="images/clients/logo/15.png" alt="Clients"></a></div>
-				<div class="oc-item"><a href="#"><img src="images/clients/logo/18.png" alt="Clients"></a></div>
+				<div class="oc-item"><a href="#"><img src="<?php echo Asset::image('clients/logo/1.png'); ?>" alt="Clients"></a></div>
+				<div class="oc-item"><a href="#"><img src="<?php echo Asset::image('clients/logo/2.png'); ?>" alt="Clients"></a></div>
+				<div class="oc-item"><a href="#"><img src="<?php echo Asset::image('clients/logo/3.png'); ?>" alt="Clients"></a></div>
+				<div class="oc-item"><a href="#"><img src="<?php echo Asset::image('clients/logo/4.png'); ?>" alt="Clients"></a></div>
+				<div class="oc-item"><a href="#"><img src="<?php echo Asset::image('clients/logo/5.png'); ?>" alt="Clients"></a></div>
+				<div class="oc-item"><a href="#"><img src="<?php echo Asset::image('clients/logo/6.png'); ?>" alt="Clients"></a></div>
+				<div class="oc-item"><a href="#"><img src="<?php echo Asset::image('clients/logo/7.png'); ?>" alt="Clients"></a></div>
+				<div class="oc-item"><a href="#"><img src="<?php echo Asset::image('clients/logo/8.png'); ?>" alt="Clients"></a></div>
+				<div class="oc-item"><a href="#"><img src="<?php echo Asset::image('clients/logo/9.png'); ?>" alt="Clients"></a></div>
+				<div class="oc-item"><a href="#"><img src="<?php echo Asset::image('clients/logo/10.png'); ?>" alt="Clients"></a></div>
+				<div class="oc-item"><a href="#"><img src="<?php echo Asset::image('clients/logo/11.png'); ?>" alt="Clients"></a></div>
+				<div class="oc-item"><a href="#"><img src="<?php echo Asset::image('clients/logo/12.png'); ?>" alt="Clients"></a></div>
+				<div class="oc-item"><a href="#"><img src="<?php echo Asset::image('clients/logo/13.png'); ?>" alt="Clients"></a></div>
+				<div class="oc-item"><a href="#"><img src="<?php echo Asset::image('clients/logo/14.png'); ?>" alt="Clients"></a></div>
+				<div class="oc-item"><a href="#"><img src="<?php echo Asset::image('clients/logo/15.png'); ?>" alt="Clients"></a></div>
+				<div class="oc-item"><a href="#"><img src="<?php echo Asset::image('clients/logo/18.png'); ?>" alt="Clients"></a></div>
 
 			</div>
 
